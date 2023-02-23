@@ -1,0 +1,20 @@
+{
+  "name": "mobile-tinymce",
+  "version": "1.0.0",
+  "description": "TinyMCE is the world’s most popular open source web-based WYSIWYG editor.",
+  "main": "jquery.tinymce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobilemed-dev/mobile-tinymce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobilemed-dev/mobile-tinymce/issues"
+  },
+  "homepage": "https://github.com/mobilemed-dev/mobile-tinymce#readme"
+}
